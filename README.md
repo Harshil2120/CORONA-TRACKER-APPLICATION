@@ -13,7 +13,6 @@ Link for CVTA application: https://corona-tracker-webapp.herokuapp.com/
 - Bootstrap user-interface
 - Heroku Deployment
 ## Sources
-- CSSEGIandData for providing the data related to cases: https://github.com/CSSEGISandData/COVID-19
 - WHO for information related to Covid-19 and safety measures: https://www.who.int/
 - Bootstrap documentation: https://getbootstrap.com/docs/5.0/getting-started/introduction/
 - Spring Boot quickstart guide: https://spring.io/quickstart 
